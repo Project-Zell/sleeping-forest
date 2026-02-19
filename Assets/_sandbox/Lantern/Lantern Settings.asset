@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e1a12453cc0e32469aec7b6e1bd7fb5, type: 3}
+  m_Name: Lantern Settings
+  m_EditorClassIdentifier: Assembly-CSharp::WeaponBaseSettings
+  <WeaponManager>k__BackingField: {fileID: 5585116138607557076, guid: fdf266017f3e87d43958e48509d1034a, type: 3}
+  <WeaponStats>k__BackingField:
+    <WeaponName>k__BackingField: Lantern
+    <BaseDamage>k__BackingField: 5
+    <BaseCooldown>k__BackingField: 2
+    <BaseSpeed>k__BackingField: 15
+    <BaseLifespawn>k__BackingField: 2.5
