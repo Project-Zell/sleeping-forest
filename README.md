@@ -32,7 +32,3 @@ Developed as part of a game jam by a **10-person team**.
 | Project Type | Game Jam |
 | Genre | Survival Action / Roguelite-inspired |
 | Engine | Unity |
-
-![Screenshot 2](./Images/screenshot-2.png)
-
-![Screenshot 3](./Images/screenshot-3.png)
