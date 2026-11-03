@@ -7,7 +7,7 @@
 <!-- Replace the placeholder below with your YouTube thumbnail.
      Link it to your gameplay video. -->
 
-[![Gameplay Preview]](https://www.youtube.com/watch?v=-EuzB_b86_w)
+[![Video Title](https://youtube.com)](https://www.youtube.com/watch?v=-EuzB_b86_w)
 
 ## About the Game
 
