@@ -1,4 +1,4 @@
-# [In to the Woods]
+# In to the Woods
 
 *A child lost in the woods. Monsters lurking in the dark. A fight against the things that shouldn't exist.*
 
@@ -8,10 +8,11 @@
      Link it to your gameplay video. -->
 
 [![Video Title](https://imgur.com/d1f42da9-f8c7-442a-839e-42b2e1b412a6)](https://www.youtube.com/watch?v=-EuzB_b86_w)
+[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
 
 ## About the Game
 
-[In to the Woods] is a survival action game inspired by the **Vampire Survivors** genre, developed during a game jam by a team of 10 people.
+In to the Woods is a survival action game inspired by the **Vampire Survivors** genre, developed during a game jam by a team of 10 people.
 
 The game follows a child who has become lost in the woods. Surrounded by strange creatures born from their imagination, the child must fight to survive using an expanding arsenal of weapons and abilities.
 
@@ -34,7 +35,7 @@ Developed as part of a game jam by a **10-person team**.
 | Team Size | 10 people |
 | Project Type | Game Jam |
 | Genre | Survival Action / Roguelite-inspired |
-| Engine | [Unity] |
+| Engine | Unity |
 
 ![Screenshot 2](./Images/screenshot-2.png)
 
