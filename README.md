@@ -4,11 +4,7 @@
 
 ## Gameplay Preview
 
-<!-- Replace the placeholder below with your YouTube thumbnail.
-     Link it to your gameplay video. -->
-
-[![Video Title](https://imgur.com/d1f42da9-f8c7-442a-839e-42b2e1b412a6.png)](https://www.youtube.com/watch?v=-EuzB_b86_w)
-[![Everything Is AWESOME](https://i.sstatic.net/q3ceS.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+[![Video Title](https://i.ibb.co/Kct4svy6/Screenshot-2026-11-03-194400.png)](https://www.youtube.com/watch?v=-EuzB_b86_w)
 
 ## About the Game
 
